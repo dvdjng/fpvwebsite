@@ -1,6 +1,5 @@
 import pandas as pd
 import streamlit as st
-import evapo as ev
 
 import pvlib
 from pvlib.modelchain import ModelChain
